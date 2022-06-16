@@ -18,5 +18,8 @@
     <ClCompile Include="apretisage du langage Cpp.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
+    <ClCompile Include="plus_moin.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

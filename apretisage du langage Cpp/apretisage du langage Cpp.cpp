@@ -1,6 +1,9 @@
 
 #include <iostream>
 #include <string>
+#include <ctime>
+
+using namespace std;
 
 int main()
 {
@@ -38,17 +41,19 @@ int main()
     //     std::cout << i << " X " << table << " = " << i * table << std::endl;
     // }
     // 
-    int compteur = 0;
-    while (true)
-    {
-        for (int i = 0; i < compteur; i++)
-        {
-            printf("raphaël");
-        }
-        printf("\n\n\n");
-
-        std::cout << compteur;
-        
-        compteur++;
-    }
+    // int compteur = 0;
+    // while (true)
+    // {
+    //     for (int i = 0; i < compteur; i++)
+    //     {
+    //         printf("raphaël");
+    //     }
+    //     printf("\n\n\n");
+        // 
+    //     std::cout << compteur;
+    //     
+    //     compteur++;
+    // }
+    std::cout << "rara";
+    return 1;
 }
